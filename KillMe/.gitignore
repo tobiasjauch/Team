@@ -1,0 +1,9 @@
+# Example Gitignore files
+/Debug/
+/Generated_Code/
+/.setings/
+/Documentation/
+*.g_c
+*.g_x
+ProjectInfo.xml
+.cwGeneratedFileSetLog
